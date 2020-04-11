@@ -7,6 +7,7 @@
   <body>
     <h1>Title</h1>
     <p>...Paragraph paragraph paragraph...</p>
+    <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" width=300>
     
   
   </body>
