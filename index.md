@@ -18,7 +18,7 @@
                .bio_img_and_label {
                     position: absolute;
                     text-align: center;
-                    width: 30%;
+                    width: 40%;
                     height: 200px;
                     top: 40px;
                     padding: 0px;
@@ -28,7 +28,7 @@
                .chem_img_and_label {
                     position: absolute;
                     text-align: center;
-                    width: 30%;
+                    width: 40%;
                     height: 200px;
                     top: 40px;
                     padding: 0px;
