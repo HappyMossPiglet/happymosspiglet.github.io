@@ -8,6 +8,7 @@
                }
                #subtitle {
                     position: absolute;
+                    top: 100px;
                     left:-12%;
                }
                .courseLabel {
