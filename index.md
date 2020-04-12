@@ -24,6 +24,9 @@
                     margin: 0px 0px 0px 0px;
                     padding: 0px;
                }
+               #calcPic {
+                    width:99%;
+               }
                .bio_img_and_label {
                     position: absolute;
                     text-align: center;
