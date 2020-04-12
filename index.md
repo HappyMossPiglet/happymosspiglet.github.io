@@ -13,7 +13,7 @@
                     border: 4px solid red;
                     position: relative;
                     text-align: center;
-                    width: 50%;
+                    width: 20%;
                     margin: auto;
 <!--                     left: 20%; -->
                }
