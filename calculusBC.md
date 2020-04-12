@@ -15,6 +15,7 @@
           <div class="pageText">
                <h1 id="calcTitle">Welcome to AP Calculus BC</h1>
                <h3 id="calcSubtitle">Resources for Review:</h3>
+               <p><br></p>
                <ul>
                     <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">YouTube: AP Channel</a></li>
                     <li><a target="_blank" href="https://apcentral.collegeboard.org/courses/ap-calculus-bc?course=ap-calculus-bc">AP Central Course Page</a></li>

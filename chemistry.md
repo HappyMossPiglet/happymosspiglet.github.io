@@ -5,6 +5,7 @@
                .pageText {
                     position: relative;
                     left:-12%;
+                    line-height: 1.8;
                }
                #chemSubtitle {
                     top: 100px;
