@@ -18,12 +18,9 @@
                }
                .img_and_label {
                     border: 4px solid green;
-                    position: absolute;
+                    position: relative;
                     text-align: center;
                     width: 30%;
-                    margin: 0px;
-                    left: 0px;
-                    padding: 0px;
                     
 <!--                     position: absolute;
                     top: 175px;
