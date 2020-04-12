@@ -16,11 +16,10 @@
                     position: absolute;
                     top: 100px;
                     left: 15%;
-                    width: 30%;
+                    width: 100px;
                }
           </style>
      </head>
-     <!--Body-->
      <body>
           <h1>Title</h1>
           <p>Paragraph paragraph paragraph</p>
@@ -30,6 +29,7 @@
                     <h2 class="courseLabel">AP Biology</h2>
                </a>
           </div>
+          <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 
 </html>
