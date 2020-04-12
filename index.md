@@ -13,7 +13,7 @@
                     top: 40%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
-                    color: white;
+                    color: red;
                }
                .img_and_label {
                     text-align: center;
