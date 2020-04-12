@@ -3,20 +3,20 @@
           <meta charset = "utf-8">
           <style>
                .courseLabel {
-                    position: relative;
-                    top: -40%;
+                    position: absolute;
+                    top: -10%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
-                    color: red;
+                    color: white;
                }
                .img_and_label {
                     text-align: center;
                }
                #bioPic {
                     position: absolute;
-                    top: 100px;
+                    top: 175px;
                     left: 15%;
-                    width: 500px;
+                    width: 30%;
                }
           </style>
      </head>
@@ -29,7 +29,7 @@
                     <h2 class="courseLabel">AP Biology</h2>
                </a>
           </div>
-          <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
+          <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 
 </html>
