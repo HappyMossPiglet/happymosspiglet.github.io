@@ -14,9 +14,9 @@
                }
                #bioPic {
                     position: absolute;
-                    top: 300px;
+                    top: 100px;
                     left: 15%;
-                    width: 16.67%;
+                    width: 30%;
                }
           </style>
      </head>
