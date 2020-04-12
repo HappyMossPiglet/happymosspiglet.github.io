@@ -20,13 +20,13 @@
                }
                .coursePic {
                     position: relative;
-                    width:97%;
+                    width:99%;
                     margin: 0px 0px 0px 0px;
                     padding: 0px;
                }
-               #calcPic {
+               /* #calcPic {
                     width:96%;
-               }
+               } */
                .bio_img_and_label {
                     position: absolute;
                     text-align: center;
