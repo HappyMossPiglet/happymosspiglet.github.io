@@ -19,7 +19,7 @@
                .img_and_label {
                     border: 4px solid green;
                     position: absolute;
-                    top: 100px;
+                    top: 10px;
                     text-align: center;
                     width: 30%;
 <!--                     position: absolute;
