@@ -4,7 +4,7 @@
           <style>
                .courseLabel {
                     position: relative;
-                    top: -70px;
+                    top: -100px;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
                     color: white;
@@ -19,9 +19,9 @@
                .img_and_label {
                     border: 4px solid green;
                     position: absolute;
+                    top: 100px;
                     text-align: center;
                     width: 30%;
-                    
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
