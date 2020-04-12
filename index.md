@@ -29,7 +29,7 @@
                }
                .coursePic {
                     position: relative;
-                    width:100%
+<!--                     width:100% -->
                     margin: 0px 0px 0px 0px;
                     padding: 0px;
                }
@@ -37,7 +37,7 @@
      </head>
      <body>
           <h1>Title</h1>
-          <p>paragraph paragraph paragraph.....</p>
+          <p>.....paragraph paragraph paragraph.....</p>
 <!--           <div id="scale"> -->
                <div id="biology" class="img_and_label">
                     <a target="-blank" href="biology.html">
