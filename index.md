@@ -9,13 +9,6 @@
                     background-color: rgba(128, 128, 128, 0.801);
                     color: white;
                }
-               .longCourseLabel {
-                    position: relative;
-                    top: -140px;
-                    font-size: 5;
-                    background-color: rgba(128, 128, 128, 0.801);
-                    color: white;
-               }
                .coursePic {
                     position: relative;
                     width:100%;
@@ -30,7 +23,7 @@
                     top: 40px;
                     padding: 0px;
                     margin: 0px 0px 0px 0px;
-                    left: 0px;
+                    left: -15%;
                }
                .chem_img_and_label {
                     position: absolute;
@@ -50,7 +43,7 @@
                     top: 40px;
                     padding: 0px;
                     margin: 0px 0px 0px 0px;
-                    left: 42%;
+                    left: 84%;
                }
           </style>
      </head>
@@ -72,7 +65,7 @@
           <div id="calculus" class="calc_img_and_label">
                <a target="-blank" href="calculusBC.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79074622-76146c80-7cbb-11ea-8014-975b8cf10818.png" alt="calculus BC image" id="calcPic" class="coursePic"/>
-                    <h2 class="longCourseLabel">AP Calculus BC</h2>
+                    <h2 class="courseLabel">AP Calculus BC</h2>
                </a>
           </div>
           <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
