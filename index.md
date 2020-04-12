@@ -39,17 +39,18 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 200px;
+                    height: width;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: 72%;
+                    border: 2px solid black;
                }
           </style>
      </head>
      <body>
-          <h1>Title</h1>
-          <p>paragraph paragraph paragraph.....</p>
+          <h1>Course Review Pages</h1>
+          <p>These review pages contain information for the 2020 AP exam, including links to helpful resources, for each of the following courses.</p>
           <div id="biology" class="bio_img_and_label">
                <a target="-blank" href="biology.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology image" id="bioPic" class="coursePic"/>
