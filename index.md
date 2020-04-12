@@ -21,14 +21,16 @@
                     position: absolute;
                     text-align: center;
                     width: 30%;
-                    left: 0%;
+                    margin: 0px;
+                    left: 0px;
+                    padding: 0px;
                     
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
                }
                .coursePic {
-                    width:30%
+                    width:100%
                }
           </style>
      </head>
