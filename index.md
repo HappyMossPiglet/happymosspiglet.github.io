@@ -48,7 +48,7 @@
           </div>
           <div id="chemistry" class="chem_img_and_label">
                <a target="-blank" href="chemistry.html">
-                    <img src="https://user-images.githubusercontent.com/63515930/79074142-b7574d00-7cb8-11ea-876e-15db2c3c6321.jpg" alt="chemistry image" id="chemPic" class="coursePic"/>
+                    <img src="https://user-images.githubusercontent.com/63515930/79074404-2b462500-7cba-11ea-93bc-e48892f04e4f.png" alt="chemistry image" id="chemPic" class="coursePic"/>
                     <h2 class="courseLabel">AP Chemistry</h2>
                </a>
           </div>
