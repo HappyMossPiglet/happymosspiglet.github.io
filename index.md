@@ -42,7 +42,6 @@
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: 30%;
-                    border: 2px solid black;
                }
                .calc_img_and_label {
                     position: absolute;
@@ -54,6 +53,7 @@
                     margin: 150px 0px 0px 0px;
                     left: 72%;
                     border: 2px solid black;
+                    z-index: 1;
                }
           </style>
      </head>
