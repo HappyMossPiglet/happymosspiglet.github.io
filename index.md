@@ -20,7 +20,8 @@
                     border: 4px solid green;
                     position: absolute;
                     text-align: center;
-                    width: 20%;
+                    width: 50%;
+                    left:-20%
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
@@ -29,7 +30,7 @@
      </head>
      <body>
           <h1>Title</h1>
-          <p>.....Paragraph paragraph paragraph.....</p>
+          <p>..... paragraph paragraph.....</p>
           <div id="scale">
                <p><br><br><br><br><br><br><br><br></p>
           </div>
