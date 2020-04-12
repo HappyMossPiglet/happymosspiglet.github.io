@@ -17,10 +17,10 @@
                } -->
                .img_and_label {
                     border: 4px solid green;
-                    position: relative;
+                    position: absolute;
                     text-align: center;
                     width: 30%;
-                    top: -40px;
+                    top: 40px;
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
