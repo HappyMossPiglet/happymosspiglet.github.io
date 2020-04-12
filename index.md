@@ -28,9 +28,8 @@
                     left: 5%; -->
                }
                .coursePic {
+                    position: relative;
                     width:100%
-                    margin: 0px 0px 0px 0px;
-                    padding: 0px;
                }
           </style>
      </head>
