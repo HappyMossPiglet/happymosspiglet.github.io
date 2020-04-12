@@ -16,6 +16,10 @@
      <body>
           <h1 id="chemTitle">Welcome to AP Chemistry</h1>
           <h3 id="chemSubtitle">Resources for Review:</h3>
+          <p><br><br><br></p>
+          <ul>
+               <li><a target="-blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ">YouTube: AP Channel</li>
+          </ul>
           <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 </html>

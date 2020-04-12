@@ -20,7 +20,7 @@
                }
                .coursePic {
                     position: relative;
-                    width:96%;
+                    width:97%;
                     margin: 0px 0px 0px 0px;
                     padding: 0px;
                }
@@ -31,7 +31,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 265px;
+                    height: 263px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
@@ -42,7 +42,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 265px;
+                    height: 263px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
@@ -53,7 +53,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height:265px;
+                    height:263px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
