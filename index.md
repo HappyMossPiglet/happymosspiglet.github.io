@@ -27,6 +27,9 @@
                     top: 175px;
                     left: 5%; -->
                }
+               .coursePic {
+                    width:30%
+               }
           </style>
      </head>
      <body>
