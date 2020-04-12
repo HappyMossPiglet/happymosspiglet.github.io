@@ -1,28 +1,35 @@
-<html>
-  <head>
-    <meta charset = "utf-8">
-    <title>FirstAttempt</title>
-    <style>
-      .courseLabel {
-
-      }
-    </style>
-      
-
-
-
-
-
-
-  </head>
-  <body>
-    <h1>Title</h1>
-    <p>...Paragraph paragraph paragraph...</p>
-    <a target="_blank" href="_______________">
-      <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology sunflower image" width="300" id="bioPic" class="coursePic"/>
-      <h2 class="courseLabel">  Biology </h2>
-    </a>
-  </body>
-
+<!doctype html>
+     <head>
+          <meta charset = "utf-8">
+          <style>
+               #bioPic {
+                    position: absolute;
+                    top: 300px;
+                    margin: 15%;
+                    width: 16.67%;
+               }
+               .courseLabel {
+                    position: relative;
+                    top: 70%;
+                    font-size: 5;
+                    background-color: rgba(128, 128, 128, 0.801);
+                    color: white;
+               }
+               .img_and_label {
+                    text-align: center;
+               }
+          </style>
+     </head>
+     <!--Body-->
+     <body>
+          <h1>Title</h1>
+          <p>Paragraph paragraph paragraph</p>
+          <div id="biology" class="img_and_label">
+               <a target="-blank" href="biology.md">
+                    <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology sunflower image" width="300" id="bioPic" class="coursePic"/>
+                    <h2 class="courseLabel">AP Biology</h2>
+               </a>
+          </div>
+     </body>
 
 </html>
