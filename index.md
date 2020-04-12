@@ -34,14 +34,16 @@
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: 30%;
+                    border: 2px solid black;
                }
                .calc_img_and_label {
                     position: absolute;
                     text-align: center;
                     width: 40%;
+                    height:100px;
                     top: 40px;
                     padding: 0px;
-                    margin: 100px 0px 0px 0px;
+                    margin: 150px 0px 0px 0px;
                     left: 72%;
                     border: 2px solid black;
                }
