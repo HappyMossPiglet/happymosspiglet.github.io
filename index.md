@@ -5,12 +5,12 @@
                #bioPic {
                     position: absolute;
                     top: 300px;
-                    margin: 15%;
+                    left: 15%;
                     width: 16.67%;
                }
                .courseLabel {
                     position: relative;
-                    top: 70%;
+                    top: 40%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
                     color: white;
