@@ -4,20 +4,23 @@
           <style>
                .courseLabel {
                     position: relative;
-                    top: -10%;
+                    top: 50%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
                     color: white;
                }
                .img_and_label {
+                    border: 1px solid red;
+                    position: relative;
                     text-align: center;
+                    width: 50%;
+                    left: 20%;
                }
-               #bioPic {
+<!--                #bioPic {
                     position: absolute;
                     top: 175px;
-                    left: 15%;
-                    width: 50%;
-               }
+                    left: 5%;
+               } -->
           </style>
      </head>
      <body>
