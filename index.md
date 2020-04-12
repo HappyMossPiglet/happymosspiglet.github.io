@@ -14,9 +14,11 @@
                     position: absolute;
                     text-align: center;
                     width: 30%;
+                    height: 120px;
                     top: 40px;
                     padding: 0px;
                     margin: 0px 0px 0px 0px;
+                    left: 0px;
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
