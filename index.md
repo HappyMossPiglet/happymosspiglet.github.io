@@ -20,44 +20,45 @@
                }
                .coursePic {
                     position: relative;
-                    width:100%;
+                    width:96%;
                     margin: 0px 0px 0px 0px;
                     padding: 0px;
                }
                #calcPic {
-                    width:99%;
+                    width:96%;
                }
                .bio_img_and_label {
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 267px;
+                    height: 265px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: -12%;
+                    border: 2px solid black;
                }
                .chem_img_and_label {
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 267px;
+                    height: 265px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: 30%;
+                    border: 2px solid black;
                }
                .calc_img_and_label {
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height:267px;
+                    height:265px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
                     left: 72%;
                     border: 2px solid black;
-                    z-index: 1;
                }
           </style>
      </head>
