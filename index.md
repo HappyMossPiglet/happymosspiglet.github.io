@@ -47,7 +47,7 @@
                .calc_img_and_label {
                     position: absolute;
                     text-align: center;
-                    width: 40%+2px;
+                    width: 40.5%;
                     height:261px;
                     top: 40px;
                     padding: 0px;
