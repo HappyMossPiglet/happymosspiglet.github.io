@@ -39,12 +39,12 @@
           <p>.....paragraph paragraph paragraph.....</p>
           <div id="scale">
                <p><br><br><br><br><br><br><br><br></p>
-          </div>
-          <div id="biology" class="img_and_label">
-               <a target="-blank" href="biology.html">
-                    <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology sunflower image" id="bioPic" class="coursePic"/>
-                    <h2 class="courseLabel">AP Biology</h2>
-               </a>
+               <div id="biology" class="img_and_label">
+                    <a target="-blank" href="biology.html">
+                         <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology sunflower image" id="bioPic" class="coursePic"/>
+                         <h2 class="courseLabel">AP Biology</h2>
+                    </a>
+               </div>
           </div>
           <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
