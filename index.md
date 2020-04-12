@@ -1,22 +1,22 @@
-<!doctype html>
+<html>
      <head>
           <meta charset = "utf-8">
           <style>
-               #bioPic {
-                    position: absolute;
-                    top: 300px;
-                    left: 15%;
-                    width: 16.67%;
-               }
                .courseLabel {
                     position: relative;
-                    top: 40%;
+                    top: -40%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
                     color: red;
                }
                .img_and_label {
                     text-align: center;
+               }
+               #bioPic {
+                    position: absolute;
+                    top: 300px;
+                    left: 15%;
+                    width: 16.67%;
                }
           </style>
      </head>
