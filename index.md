@@ -31,7 +31,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 265px;
+                    height: 267px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
@@ -41,7 +41,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 265px;
+                    height: 267px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
@@ -50,8 +50,8 @@
                .calc_img_and_label {
                     position: absolute;
                     text-align: center;
-                    width: 40.5%;
-                    height:265px;
+                    width: 40%;
+                    height:267px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
