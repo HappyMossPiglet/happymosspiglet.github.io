@@ -21,7 +21,7 @@
                     position: absolute;
                     text-align: center;
                     width: 50%;
-                    left:-20%
+                    right: 90%
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
