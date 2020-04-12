@@ -3,7 +3,7 @@
           <meta charset = "utf-8">
           <style>
                .pageText {
-                    position: absolute;
+                    position: relative;
                     left:-12%;
                }
                #bioSubtitle {
