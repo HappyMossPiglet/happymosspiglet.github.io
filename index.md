@@ -14,7 +14,8 @@
                     position: relative;
                     text-align: center;
                     width: 50%;
-                    left: 20%;
+                    margin: auto;
+<!--                     left: 20%; -->
                }
 <!--                #bioPic {
                     position: absolute;
