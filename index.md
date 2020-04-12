@@ -18,7 +18,7 @@
                }
                .img_and_label {
                     border: 4px solid green;
-                    position: absolute;
+                    position: relative;
                     text-align: center;
                     width: 50%;
                     right: 90%
