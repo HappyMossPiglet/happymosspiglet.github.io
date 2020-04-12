@@ -83,6 +83,6 @@
                     <h2 class="courseLabel">AP Calculus BC</h2>
                </a>
           </div>
-          <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+          <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 </html>

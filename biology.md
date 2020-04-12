@@ -15,7 +15,6 @@
           <div class="pageText">
                <h1 id="bioTitle">Welcome to AP Biology</h1>
                <h3 id="bioSubtitle">Resources for Review:</h3>
-               <p><br></p>
                <ul>
                     <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4847VchRdUdvbDPzsp9ResrjD">YouTube: AP Channel</a></li>
                     <li><a target="_blank" href="https://apcentral.collegeboard.org/courses/ap-biology?course=ap-biology">AP Central Course Page</a></li>

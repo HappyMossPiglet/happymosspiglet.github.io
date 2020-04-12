@@ -16,7 +16,6 @@
           <div class="pageText">
                <h1 id="chemTitle">Welcome to AP Chemistry</h1>
                <h3 id="chemSubtitle">Resources for Review:</h3>
-               <p><br></p>
                <ul>
                     <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ">YouTube: AP Channel</a></li>
                     <li><a target="_blank" href="https://apcentral.collegeboard.org/courses/ap-chemistry?course=ap-chemistry">AP Central Course Page</a></li>
