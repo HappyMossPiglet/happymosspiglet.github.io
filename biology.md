@@ -17,9 +17,9 @@
                <h3 id="bioSubtitle">Resources for Review:</h3>
                <p><br><br></p>
                <ul>
-                    <li><a target="-blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4847VchRdUdvbDPzsp9ResrjD">YouTube: AP Channel</a></li>
-                    <li><a target="-blank" href="https://apcentral.collegeboard.org/courses/ap-biology?course=ap-biology">AP Central Course Page</a></li>
-                    <li><a target="-blank" href="https://apcentral.collegeboard.org/pdf/ap-biology-course-and-exam-description-0.pdf?course=ap-biology">AP Course Description</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLoGgviqq4847VchRdUdvbDPzsp9ResrjD">YouTube: AP Channel</a></li>
+                    <li><a target="_blank" href="https://apcentral.collegeboard.org/courses/ap-biology?course=ap-biology">AP Central Course Page</a></li>
+                    <li><a target="_blank" href="https://apcentral.collegeboard.org/pdf/ap-biology-course-and-exam-description-0.pdf?course=ap-biology">AP Course Description</a></li>
                </ul>
                <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
           </div>

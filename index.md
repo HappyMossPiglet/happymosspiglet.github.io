@@ -66,19 +66,19 @@
           <h1 id="title">Course Review Pages</h1>
           <p id="subtitle">These review pages contain information for the 2020 AP exam, including links to helpful resources,<br> for each of the following courses.</p>
           <div id="biology" class="bio_img_and_label">
-               <a target="-blank" href="biology.html">
+               <a target="_blank" href="biology.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology image" id="bioPic" class="coursePic"/>
                     <h2 class="courseLabel">AP Biology</h2>
                </a>
           </div>
           <div id="chemistry" class="chem_img_and_label">
-               <a target="-blank" href="chemistry.html">
+               <a target="_blank" href="chemistry.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79074404-2b462500-7cba-11ea-93bc-e48892f04e4f.png" alt="chemistry image" id="chemPic" class="coursePic"/>
                     <h2 class="courseLabel">AP Chemistry</h2>
                </a>
           </div>
           <div id="calculus" class="calc_img_and_label">
-               <a target="-blank" href="calculusBC.html">
+               <a target="_blank" href="calculusBC.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79074622-76146c80-7cbb-11ea-8014-975b8cf10818.png" alt="calculus BC image" id="calcPic" class="coursePic"/>
                     <h2 class="courseLabel">AP Calculus BC</h2>
                </a>
