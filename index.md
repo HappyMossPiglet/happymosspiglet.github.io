@@ -3,7 +3,7 @@
           <meta charset = "utf-8">
           <style>
                .courseLabel {
-                    position: absolute;
+                    position: relative;
                     top: -10%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
