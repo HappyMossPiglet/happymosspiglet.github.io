@@ -4,7 +4,7 @@
           <style>
                .courseLabel {
                     position: relative;
-                    top: 50%;
+                    top: 20%;
                     font-size: 5;
                     background-color: rgba(128, 128, 128, 0.801);
                     color: white;
@@ -18,10 +18,11 @@
                }
                .img_and_label {
                     border: 4px solid green;
-                    position: relative;
+                    position: absolute;
                     text-align: center;
-                    width: 50%;
-                    right: 90%
+                    width: 30%;
+                    left: 0%;
+                    
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
@@ -30,7 +31,7 @@
      </head>
      <body>
           <h1>Title</h1>
-          <p>paragraph paragraph paragraph.....</p>
+          <p>.....paragraph paragraph paragraph.....</p>
           <div id="scale">
                <p><br><br><br><br><br><br><br><br></p>
           </div>
