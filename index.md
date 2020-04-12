@@ -20,7 +20,7 @@
                     border: 4px solid green;
                     position: absolute;
                     text-align: center;
-                    width: 100%;
+                    width: 20%;
 <!--                     position: absolute;
                     top: 175px;
                     left: 5%; -->
