@@ -13,7 +13,6 @@
                     border: 4px solid red;
                     position: relative;
                     text-align: center;
-                    left: 20%;
                     width: 100%;
 <!--                     left: 20%; -->
                }
@@ -26,7 +25,7 @@
      </head>
      <body>
           <h1>Title</h1>
-          <p>Paragraph paragraph .....</p>
+          <p>Paragraph paragraph paragraph .....</p>
           <div id="biology" class="img_and_label">
                <a target="-blank" href="biology.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology sunflower image" width="300" id="bioPic" class="coursePic"/>
