@@ -31,7 +31,7 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: 261px;
+                    height: 265px;
                     top: 40px;
                     padding: 0px;
                     margin: 150px 0px 0px 0px;
