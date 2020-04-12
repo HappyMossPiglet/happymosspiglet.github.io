@@ -41,7 +41,7 @@
                     width: 40%;
                     top: 40px;
                     padding: 0px;
-                    margin: 0px 0px 0px 0px;
+                    margin: 100px 0px 0px 0px;
                     left: 72%;
                     border: 2px solid black;
                }
