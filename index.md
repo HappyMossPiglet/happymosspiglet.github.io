@@ -16,7 +16,7 @@
                     position: absolute;
                     top: 100px;
                     left: 15%;
-                    width: 100px;
+                    width: 500px;
                }
           </style>
      </head>
