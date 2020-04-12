@@ -15,7 +15,7 @@
      </head>
      <body>
           <h1 id="chemTitle">Welcome to AP Chemistry</h1>
-          <h2 id="chemSubtitle">Resources for Review:</h2>
+          <h3 id="chemSubtitle">Resources for Review:</h3>
           <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 </html>

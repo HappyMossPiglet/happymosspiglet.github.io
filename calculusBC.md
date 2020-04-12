@@ -15,7 +15,7 @@
      </head>
      <body>
           <h1 id="calcTitle">Welcome to AP Calculus BC</h1>
-          <h2 id="calcSubtitle">Resources for Review:</h2>
+          <h3 id="calcSubtitle">Resources for Review:</h3>
           <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
      </body>
 </html>
