@@ -39,10 +39,9 @@
                     position: absolute;
                     text-align: center;
                     width: 40%;
-                    height: width;
                     top: 40px;
                     padding: 0px;
-                    margin: 150px 0px 0px 0px;
+                    margin: 0px 0px 0px 0px;
                     left: 72%;
                     border: 2px solid black;
                }
