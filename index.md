@@ -30,7 +30,7 @@
      </head>
      <body>
           <h1>Title</h1>
-          <p>..... paragraph paragraph.....</p>
+          <p>paragraph paragraph.....</p>
           <div id="scale">
                <p><br><br><br><br><br><br><br><br></p>
           </div>
