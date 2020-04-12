@@ -47,7 +47,7 @@
                .calc_img_and_label {
                     position: absolute;
                     text-align: center;
-                    width: 40%;
+                    width: 40%+2px;
                     height:261px;
                     top: 40px;
                     padding: 0px;
@@ -60,7 +60,7 @@
      </head>
      <body>
           <h1 id="title">Course Review Pages</h1>
-          <p id="subtitle">These review pages contain information for the 2020 AP exam, including links to helpful resources, for each of the following courses.</p>
+          <p id="subtitle">These review pages contain information for the 2020 AP exam, including links to helpful resources,<br> for each of the following courses.</p>
           <div id="biology" class="bio_img_and_label">
                <a target="-blank" href="biology.html">
                     <img src="https://user-images.githubusercontent.com/63515930/79056396-2afb4a80-7c24-11ea-9b60-e09ca904730d.jpg" alt="biology image" id="bioPic" class="coursePic"/>
