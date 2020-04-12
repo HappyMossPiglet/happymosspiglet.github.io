@@ -22,7 +22,7 @@
                     height: 200px;
                     top: 40px;
                     padding: 0px;
-                    margin: 40px 0px 0px 0px;
+                    margin: 150px 0px 0px 0px;
                     left: -12%;
                }
                .chem_img_and_label {
@@ -32,7 +32,7 @@
                     height: 200px;
                     top: 40px;
                     padding: 0px;
-                    margin: 40px 0px 0px 0px;
+                    margin: 150px 0px 0px 0px;
                     left: 30%;
                }
                .calc_img_and_label {
@@ -42,7 +42,7 @@
                     height: 200px;
                     top: 40px;
                     padding: 0px;
-                    margin: 40px 0px 0px 0px;
+                    margin: 150px 0px 0px 0px;
                     left: 72%;
                }
           </style>
